@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/my_ebay"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:title="My eBay" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/outline_search_24"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_baseline_notifications_none_24"
+        android:title="Notifications" />
+
+    <item
+        android:id="@+id/selling"
+        android:icon="@drawable/ic_baseline_local_offer_24"
+        android:title="Selling" />
+
+</menu>

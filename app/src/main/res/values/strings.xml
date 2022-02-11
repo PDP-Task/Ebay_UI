@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EbayDemo</string>
+    <string name="todo">todo</string>
+    <string name="search_for_anything">Search for anything</string>
+    <string name="saved">Saved</string>
+    <string name="category">Categories</string>
+    <string name="details">Details</string>
+    <string name="upto_">Up to 70% off bedding and bath</string>
+    <string name="towels">Stock your linen closet with towels, sheets, and more</string>
+    <string name="freshen_up">Freshen up</string>
+    <string name="let_s_ride">Let\'s ride!</string>
+    <string name="the_right">The right parts at the right prices</string>
+    <string name="everything_you_need_for_your_vehicle">Everything you need for your vehicle</string>
+    <string name="up_to_60_off_your_favorites">Up to 60% off your favorites</string>
+    <string name="ref">Refurbished phones from trusted sellers with a warranty</string>
+    <string name="get_them_now">Get them now</string>
+    <string name="android_watch">Android Watch</string>
+    <string name="today_sho"><![CDATA[Today\'s Deals - All With Free Shipping ->]]></string>
+    <string name="bose_quietcomfort_nearbuds">Bose QuietComfort\nEarbuds</string>
+    <string name="brave_the_cold_with_nwinter_essentials">Brave the cold with\nwinter essentials</string>
+</resources>
